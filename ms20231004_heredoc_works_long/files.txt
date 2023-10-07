@@ -1,0 +1,16 @@
+Makefile
+files.txt
+includes
+minishell
+new_file.txt
+obj
+output.txt
+src
+Makefile
+files.txt
+includes
+minishell
+new_file.txt
+obj
+output.txt
+src
